@@ -29,13 +29,17 @@ and teamwork that allows me to approach problems innovatively.
 |Cloud Farm  	|2014 — 2015    |
 
 ### Personal web projects:
+| [Trading portfolio](https://tradecoins.devidcorsard.pp.ua) | [Youtube clone](https://tube.devidcorsard.pp.ua) | [Timestamps converter to cue and ffmetadata](https://devid-corsard.github.io/timestamps-conv/) |
+|------------------------------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------|
+| <img src="images/tc.png" max-height="300"> | <img src="images/yt.png" max-height="300"> | <img src="images/ts.png" max-height="300">
+| [Repository](https://github.com/devid-corsard/tradecoins) | [Repository](https://github.com/devid-corsard/videoapp) | [Repository](https://github.com/devid-corsard/timestamps-conv)
+ 
+| [Chat app](https://devid-corsard.github.io/chat-build) | [Swagger documented Nest.js server](https://nest.devidcorsard.pp.ua) | [Abz test assignment](https://abz.devidcorsard.pp.ua) |
+|--------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------|
+| <img src="images/chat.png" max-height="300"> | <img src="images/nest.png" max-height="300"> | <img src="images/abz.png" max-height="300"> |
+| [Repository](https://github.com/devid-corsard/chat) | [Repository](https://github.com/devid-corsard/nest-server) | [Repository](https://github.com/devid-corsard/test) |
 
-- [Trading portfolio](https://tradecoins.devidcorsard.pp.ua), [src](https://github.com/devid-corsard/tradecoins)
-- [Youtube clone](https://tube.devidcorsard.pp.ua), [src](https://github.com/devid-corsard/videoapp)
-- [Chat app](https://devid-corsard.github.io/chat-build), [src](https://github.com/devid-corsard/chat)
-- [Timestamps converter to cue and ffmetadata](https://devid-corsard.github.io/timestamps-conv/), [src](https://github.com/devid-corsard/timestamps-conv)
-- [Swagger documented Nest.js server](https://nest.devidcorsard.pp.ua), [src](https://github.com/devid-corsard/nest-server)
-- [Abz test assignment](https://abz.devidcorsard.pp.ua), [src](https://github.com/devid-corsard/test)
+
 
 
 
