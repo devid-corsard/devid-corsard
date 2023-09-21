@@ -1,7 +1,7 @@
 ### About me
 Always was interested in a programming, started to learn a web-development in a free time as a hobby. 
 
-2014–2022 worked as a [game environment artist](https://www.artstation.com/cgdima) from an idea, reference search and scheduling work to final assets in the game.
+7+ years (2014–2022) worked as a [game environment artist](https://www.artstation.com/cgdima) from an idea, reference search and scheduling work to final assets in the game.
 
 I enjoy learning new things and taking on new challenges, and I believe my experience 
 in both creative and technical roles gives me a strong foundation in problem-solving 
