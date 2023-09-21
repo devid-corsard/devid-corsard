@@ -7,7 +7,7 @@ I enjoy learning new things and taking on new challenges, and I believe my exper
 in both creative and technical roles gives me a strong foundation in problem-solving 
 and teamwork that allows me to approach problems innovatively.
 
-`🧑‍💻Languages: TypeScript, Rust`
+`💻Languages: TypeScript, Rust`
 `⚙️Frameworks: Node.js, Express, Nest.js, React, Actix, Tokio, Swagger`
 `📀Databases: PostgreSQL, Mongo, AWS, Git, Docker`
 `🛠️Tools: Photoshop, Nginx, GitHub Actions, CICD`
@@ -16,17 +16,17 @@ and teamwork that allows me to approach problems innovatively.
 
 ### Work experience:
 
-Company    | Position                  | Period| Responsiblies |
-|----------|---------------------------|-------|---------------|
-Abz.agency | Node.js backend developer | 2022  | REST API development with Nest.JS|
+|Company    | Position                  |Period | Responsiblies |
+|-----------|---------------------------|-------|---------------|
+|Abz.agency | Node.js backend developer | 2022  | REST API development with Nest.JS|
 
 ### Previous experience, as a 3d-artist:
 |Projects       |Period         |
 |---------------|---------------|
-|Call of Duty  	|2021 — 2022 	  |
+|Call of Duty  	|2021 — 2022 	|
 |Halo: Infinite |2019 — 2021    |
-|World of Tanks |2015 — 2019	  |
-|Cloud Farm  	  |2014 — 2015    |
+|World of Tanks |2015 — 2019	|
+|Cloud Farm  	|2014 — 2015    |
 
 ### Personal web projects:
 
