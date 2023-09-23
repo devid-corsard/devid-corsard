@@ -34,7 +34,7 @@ and teamwork that allows me to approach problems innovatively.
 | <img src="images/tc.png" max-height="300"> | <img src="images/yt.png" max-height="300"> | <img src="images/ts.png" max-height="300">
 | [Repository](https://github.com/devid-corsard/tradecoins) | [Repository](https://github.com/devid-corsard/videoapp) | [Repository](https://github.com/devid-corsard/timestamps-conv)
  
-| [Chat app](https://devid-corsard.github.io/chat-build) | [Swagger documented Nest.js server](https://nest.devidcorsard.pp.ua) | [Abz test assignment](https://abz.devidcorsard.pp.ua) |
+| [Chat app](https://devid-corsard.github.io/chat-build) | [Swagger documented Nest.js server](https://nestjs.devidcorsard.pp.ua) | [Abz test assignment](https://abz.devidcorsard.pp.ua) |
 |--------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------|
 | <img src="images/chat.png" max-height="300"> | <img src="images/nest.png" max-height="300"> | <img src="images/abz.png" max-height="300"> |
 | [Repository](https://github.com/devid-corsard/chat) | [Repository](https://github.com/devid-corsard/nest-server) | [Repository](https://github.com/devid-corsard/test) |
