@@ -1,5 +1,7 @@
 ### About me
-Always was interested in a programming, started to learn a web-development in a free time as a hobby. 
+Always was interested in programming, started to learn a web-development in my free time as a hobby.
+
+From 2022 started my way as a backend developer.
 
 7+ years (2014–2022) worked as a [game environment artist](https://www.artstation.com/cgdima) from an idea, reference search and scheduling work to final assets in the game.
 
@@ -9,8 +11,8 @@ and teamwork that allows me to approach problems innovatively.
 
 `💻Languages: TypeScript, Rust`
 `⚙️Frameworks: Node.js, Express, Nest.js, React, Actix, Tokio, Swagger`
-`📀Databases: PostgreSQL, Mongo, AWS, Git, Docker`
-`🛠️Tools: Photoshop, Nginx, GitHub Actions, CICD`
+`📀Databases: PostgreSQL, Mongo, AWS`
+`🛠️Tools: Photoshop, Nginx, Git, Docker, GitHub Actions, CICD`
 `🌍Speak: Ukrainian, English B2 Upper intermidiate`
 `📖Education: <<Design engineer>> National Technical University of Ukraine «Kyiv Polytechnic Institute» 2014`
 
@@ -18,7 +20,8 @@ and teamwork that allows me to approach problems innovatively.
 
 |Company    | Position                  |Period | Responsiblies |
 |-----------|---------------------------|-------|---------------|
-|Abz.agency | Node.js backend developer | 2022  | REST API development with Nest.JS|
+|Spendbase | Node.js backend developer | 2023  | REST API development with Nest.JS|
+|Abz.agency | Node.js backend developer | 2022-2023  | REST API development with Nest.JS|
 
 ### Previous experience, as a 3d-artist:
 |Projects       |Period         |
