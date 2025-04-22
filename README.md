@@ -13,7 +13,7 @@ From 2022 started my way as a backend developer.
 
 |Company    | Position                  |Period |
 |-----------|---------------------------|-------|
-|Spendbase | Node.js backend developer | 2023-present  |
+|Spendbase | Golang/Node.js developer | 2023-present  |
 |Abz.agency | Node.js backend developer | 2022-2023  |
 
 ### Previous experience, as a 3d-artist:
